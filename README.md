@@ -41,8 +41,8 @@ iOS: Use the Expo Go app on your iPhone or iPad. Scan the QR code that appears i
 
 6. Optional: Running on Specific Platforms
 For iOS (requires macOS and Xcode):
-
 expo start --ios
+
 For Android (requires Android Studio and an emulator or device):
 expo start --android
 
